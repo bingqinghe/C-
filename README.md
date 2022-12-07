@@ -1,4 +1,7 @@
-# About this Course
+# C#程序设计
+by Peking University
+
+## About this Course
 C#（又称csharp)是一种优秀的面向对象语言，它继承了C++和Java等语言的优点，在Windows图形用户界面、Web应用、数据库等方面有着广泛的应用。
 
 本课程在介绍C#语言及面向对象的程序设计基本原理的基础上，使用Visual Studio作为开发工具，介绍C#对各种常见的信息的处理方法，包括文本处理、图形绘制、图像处理、多媒体、网络信息获取、数据库应用等。
