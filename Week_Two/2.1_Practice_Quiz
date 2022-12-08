@@ -1,0 +1,47 @@
+1. double在内存中占8个字节  
+* 对
+  错
+
+2. Point p1 = new Point(18,20); //Point是struct
+   Point p2 = p1;
+   如果置 p1.x=35;
+   则 p2.x也是35
+
+  对
+* 错
+
+3. 1E7 是不合法的，因为它不是标识符。  
+  对
+* 错
+
+4. string等价于System.String  
+* 对
+  错
+
+5. int是引用类型  
+  对
+* 错
+
+6. string是引用类型  
+* 对
+  错
+
+7. int占2个字节  
+  对
+* 错
+
+8. Person p1 = new Person(18); //Person是引用类型
+   Person p2 = p1;
+   如果 p1.age=35;
+   则 p2.age也是35
+
+* 对
+  错
+
+9. byte是无符号字节  
+* 对
+  错
+
+10. uint是无符号整数  
+* 对
+  错
