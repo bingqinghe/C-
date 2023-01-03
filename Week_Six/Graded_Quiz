@@ -1,0 +1,56 @@
+1. File类的方法都是static的，而FileInfo则可以new一个实例。  
+* 对
+  错
+
+2. 使用文本文件，经常要考虑文本编码。  
+* 对
+  错
+
+3. FileInfo是FileSystemInfo类的子类。  
+* 对
+  错
+
+4. DirectoryInfo继承自FileInfo。  
+* 对
+  错
+
+5. DirectoryInfo继承自FileSystemInfo。  
+* 对
+  错
+  
+6. 使用BinaryFormatter对象的Deserialize()方法可以反序列化。  
+* 对
+  错
+
+7. Serialize()方法可以反序列化。  
+  对
+* 错
+
+8. [Serialize]这个Attribute表示对象可序列化  
+  对
+* 错
+
+9. FileStream可以用于二进制文件内容的读写  
+* 对
+  错
+
+10. 可以求出文件的大小、日期的类是______  
+  FileInfo
+  
+11. 读取文本文件最好用的类是______  
+  StreamReader
+  
+12. 向文本文件写入信息最好用的类是______  
+  StreamWriter
+  
+13. Encoding.______表示默认编码（中文系统下是GBK）。  
+  Default
+
+14. 使用StreamReader的_____()方法表示读取一行  
+  ReadLine
+  
+15. 使用StreamReader的_____()方法表示读取到文件尾
+  ReadToEnd
+  
+16. 使用StreamWriter的_____()方法表示写入一行  
+  WriteLine
