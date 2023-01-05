@@ -1,0 +1,49 @@
+常用控件
+
+1. 控件Control类都是System.Windows.Forms.Control的子类  
+* 对
+  错
+
+2. Control实现了IDisposable等接口  
+* 对
+  错
+
+3. 组件也是显示在界面上的控件  
+  对
+* 错
+
+4. KeyPress事件实际上包括了KeyDown及KeyUp  
+* 对
+  错
+
+5. 文本框的PasswordChar可以使之成为密码框  
+* 对
+  错
+
+6. 多行文本框要设置MultiLine属性  
+* 对
+  错
+
+7. 向列表框中添加项目可以使用Items.Add()方法  
+* 对
+  错
+
+8. 日期时间框的Value属性可以用来表示用户选取的时期时间  
+* 对
+  错
+
+9. 进度条  ProgressBar的Maximum表示最小值   
+  对
+* 错
+
+10. RichTextBox 富文本框的.Select(start,len)方法表示选中其中一部分  
+* 对
+  错
+
+11. 富文本框的SelectionColor属性可以用来设定一部分内容的颜色  
+* 对
+  错
+
+12. 面板及选项卡是常用的容器  
+* 对
+  错
