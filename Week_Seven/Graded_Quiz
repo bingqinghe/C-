@@ -1,0 +1,121 @@
+窗体与控件
+
+1. 编程时，要根据需要来选择合理的事件  
+* 对
+  错
+  
+2. 在英文中，Anchor表示抛锚、锚定；Dock表示船坞、船停靠码头。  
+* 对
+  错
+  
+3. 打开窗口可以使用Show或ShowDialog方法  
+* 对
+  错
+  
+4. 使用static变量可以表示窗体间的公用变量  
+* 对
+  错
+  
+5. 用户控件可以使用拖动的方式添加到窗体中  
+* 对
+  错
+  
+6. 控件Control类都是System.Windows.Forms.Control的子类  
+* 对
+  错
+  
+7. Control实现了IDisposable等接口
+* 对
+  错
+  
+8. 组件也是显示在界面上的控件  
+* 对
+  错
+  
+9. KeyPress事件实际上包括了KeyDown及KeyUp  
+* 对
+  错
+  
+10. 文本框的PasswordChar可以使之成为密码框  
+* 对
+  错
+  
+11. 多行文本框要设置MultiLine属性  
+* 对
+  错
+  
+12. 多行文本框要设置ScrollBars属性  
+* 对
+  错
+  
+13. 向列表框中添加项目可以使用Items.Add()方法  
+* 对
+  错
+  
+14. 日期时间框的Value属性可以用来表示用户选取的时期时间  
+* 对
+  错
+  
+15. RichTextBox 富文本框的.Select(start,len)方法表示选中其中一部分  
+* 对
+  错
+  
+16. 富文本框的SelectionColor属性可以用来设定一部分内容的颜色  
+* 对
+  错
+  
+17. 进度条 ProgressBar的Maximum表示最小值  
+  对
+* 错
+
+18. 富文本框的SelectionFont属性可以用来设定一部分内容的字体  
+* 对
+  错
+  
+19. 面板及选项卡是常用的容器  
+* 对
+  错
+  
+20. 容器不是控件  
+  对
+* 错
+
+21. 窗体也是控件  
+* 对
+  错
+  
+22. WebBrowser控件可以使用Navigate方法来显示网页  
+* 对
+  错
+  
+23. WebBrowser控件可以使用ShowPage方法来显示网页
+  对
+* 错
+
+24. 用户控件可以将多个控件组合起来  
+* 对
+  错
+  
+25. 用户控件一定含有多个子控件  
+* 对
+  错
+  
+26. Visible 表示可见性  
+* 对
+  错
+  
+27. Enabled表示可见性  
+  对
+* 错
+
+28. ProgressBar的Value表示当前值  
+* 对
+  错
+  
+29. OpenFileDialog控件可以用来选择文件
+* 对
+  错
+  
+30. ColorDialog可以用来选字体
+  对
+* 错
