@@ -1,0 +1,74 @@
+绘图及图像
+
+1. 程序中进行绘图，要使用绘图对象，这个对象是  
+* Graphics  
+  Drawing  
+  Paint  
+  HDC  
+
+2. DrawRectangle表示  
+  画正方形  
+* 画矩形  
+  画填充的矩形  
+  画圆  
+
+3. 获得Color的方法包括  
+* Color.FromArgb()  
+* Color.FromName()  
+* Color.Red等  
+  new Color()   
+
+4. 可以用控件的(   )方法得到Graphics对象  
+  CreateGraphics
+
+5.（  ）可以实现绘图时的坐标变换  
+  RotateTransform
+  
+6.（  ）表示绘图路径  
+  GraphicsPath
+  
+7.（  ）属性可以实现绘图过程的双缓冲  
+  DoubleBuffered
+  
+8. 表示图像的抽象类是（  ）  
+  Image
+
+9. Pen, Brush, Color, Rectangle表示画笔，画刷，颜色，矩形  
+* 对
+  错
+
+10. 自己创建的各种绘图对象，如Graphics, Pen, Brush最好调用Dispose方法进行资源的释放  
+* 对
+  错
+
+11. Size()是个结构体，它进行了+及-运算符的重载  
+* 对
+  错
+
+12. Point和PointF是一样的  
+  对
+* 错
+
+13. Paint事件的参数中可以有Graphics对象  
+  对
+* 错
+
+14. DrawString方法中一般需要字体、画刷对象做参数  
+* 对
+  错
+
+15. Bitmap类是表示图像  
+* 对
+  错
+
+16. 使用bitmap.GetPixel(x,y)可以得到像素点  
+* 对
+  错
+
+17. 在进行图像处理时，使用指针可以提高效率  
+* 对
+  错
+
+18. 图像滤镜的作用是对图像进行变换处理  
+* 对
+  错
