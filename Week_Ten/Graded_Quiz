@@ -1,0 +1,61 @@
+网络信息获取及Xml处息
+
+1. xml文档中用<!-- -->表示注释  
+* 对
+  错
+  
+2. xml文档中用&lt;表示大于号  
+  对
+* 错
+  
+3. xml文档中用&amp;表示&  
+* 对
+  错
+  
+4. XmlDocument是表示Xml文档的类  
+* 对
+  错
+  
+5. XmlNode是表示XmlDocument的子类  
+  对
+* 错
+  
+6. InnerXml是表示节点的内部xml  
+* 对
+  错
+  
+7. ChildNodes是表示子节点的集合  
+* 对
+  错
+  
+8. XPath 是对XML进行查询的表达式  
+* 对
+  错
+  
+9. SelectNodes是使用Xpath进行查询的基本方法  
+* 对
+  错
+  
+10. Chrome/FireFox等浏览器 F11表示进行开发者工具  
+  对
+* 错
+  
+11. Request 类 是请求响应  
+* 对
+  错
+  
+12. HttpServerUtility是实用工具，可以用来对网址进行编码  
+* 对
+  错
+  
+13. WebClient具有DownloadData 及 DownloadFile等方法  
+* 对
+  错
+  
+14. 网络信息获取经常需要使用线程  
+* 对
+  错
+  
+15. xml文档最前面是声明<?xml   
+* 对
+  错
